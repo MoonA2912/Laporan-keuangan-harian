@@ -8,7 +8,7 @@ Aplikasi ini sudah dipublikasikan menggunakan **GitHub Pages**, bisa di akses me
   [https://moona2912.github.io/Laporan-keuangan-harian/](https://moona2912.github.io/Laporan-keuangan-harian/)
 
 ## Gambar Aplikasi
-![Screenshot Aplikasi](path/to/laporankeuanganharian.jpeg)
+![Screenshot Aplikasi](laporankeuanganharian.jpeg)
 
 ## Kontak
 Email : monalisaeff@gmail.com
